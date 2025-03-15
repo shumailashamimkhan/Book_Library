@@ -1,0 +1,34 @@
+[
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "publication_year": 1951,
+      "read_status": "Not Read",
+      "added_date": "2025-11-23 11:36:40"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publication_year": 1960,
+      "read_status": "Read",
+      "added_date": "2025-11-23 11:36:40"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publication_year": 1949,
+      "read_status": "Reading",
+      "added_date": "2025-11-23 11:36:40"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "publication_year": 2011,
+      "read_status": "Not Read",
+      "added_date": "2025-11-23 11:36:40"
+    }
+  ]
